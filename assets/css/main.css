@@ -4046,3 +4046,8 @@ img {
 a.button.fit {
 	margin-top: 25px;
 }
+
+li.icon-link:hover {
+  color: cornflowerblue;
+  transition: 0.5;
+}
